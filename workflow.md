@@ -11,3 +11,9 @@ pip install httpx==0.27.2
 
 run command 
 xvfb-run -a streamlit run main.py
+
+install chrome 
+sudo apt update
+sudo apt install -y chromium-chromedriver
+
+install google chrome 
